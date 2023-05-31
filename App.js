@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
 
-{ console.log("Hello World"); }
-
 export default function App() {
 
   const [isWelcome, setWelcome] = useState(true);
