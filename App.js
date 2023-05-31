@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-{ console.log(navigator.userAgent); console.log(window.navigator.userAgent); }
+{ console.log("Hello World"); }
 
 export default function App() {
 
